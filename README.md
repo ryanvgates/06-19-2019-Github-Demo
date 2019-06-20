@@ -4,6 +4,8 @@ Thank you for joining us!
 
 ### Markdown
 
+<!-- Don't show this-->
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
