@@ -1,33 +1,6 @@
-## Welcome to the GitHub Pages Demo
+## Github Demo
 
-Thank you for joining us!
 
-### Markdown
+This repository has moved to [Codeberg](https://codeberg.org/ryanvgates/06-19-2019-Github-Demo).
 
-<!-- Don't show this-->
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![Codeberg Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Codeberg_logo_horizontal.svg/1920px-Codeberg_logo_horizontal.svg.png?_=20250524183759)
